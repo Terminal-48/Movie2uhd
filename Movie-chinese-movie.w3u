@@ -80,14 +80,7 @@
       "name": "คู่พายุเดือด (2023)",
       "image": "https://movie2uhd.com/wp-content/uploads/2023/09/Where-the-Wind-Blows.webp",
       "info": "",
-      "stations": [
-        {
-          "name": "คู่พายุเดือด (2023)",
-          "image": "https://movie2uhd.com/wp-content/uploads/2023/09/Where-the-Wind-Blows.webp",
-          "url": "https://master1.glacis.xyz/media/64f53faf8b72cpBa/720/hls/index.m3u8",
-          "info": "Sub"
-        }
-      ]
+      "stations": []
     },
     {
       "name": "โค่นอำนาจเจ้าพ่ออหังการ ภาค 1 (2016)",
@@ -279,6 +272,12 @@
           "image": "https://movie2uhd.com/wp-content/uploads/2022/09/Strange-door-and-dark-blade-1.webp",
           "url": "https://master2.ataxbayle.xyz/media/63e71547f2221vTT/720/hls/index.m3u8",
           "info": "Thai"
+        },
+        {
+          "name": "ศาสตราวุธลับกับมิติอัศจรรย์ (2022)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/09/Strange-door-and-dark-blade-1.webp",
+          "url": "https://master3.baraq.xyz/media/63364da4bda025i9/1080/hls/index.m3u8",
+          "info": "Sub"
         }
       ]
     },
@@ -286,25 +285,53 @@
       "name": "ดาบมังกรหยก 1 (2022)",
       "image": "https://movie2uhd.com/wp-content/uploads/2022/03/kung-fu-master-e1648313138227.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ดาบมังกรหยก 1 (2022)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/03/kung-fu-master-e1648313138227.jpg",
+          "url": "https://master3.baraq.xyz/media/622ed973e22a6YhI/1080/hls/index.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ดาบมังกรหยก 2 (2022)",
       "image": "https://movie2uhd.com/wp-content/uploads/2022/03/kung-fu-master-1-e1648313296747.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ดาบมังกรหยก 2 (2022)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/03/kung-fu-master-1-e1648313296747.jpg",
+          "url": "https://master3.baraq.xyz/media/623bd349bb86bFcL/1080/hls/index.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "คู่ตุ้ยนุ้ยพิศดารมหัศจรรย์ (2001)",
       "image": "https://movie2uhd.com/wp-content/uploads/2022/08/Love-On-A-Diet.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "คู่ตุ้ยนุ้ยพิศดารมหัศจรรย์ (2001)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/08/Love-On-A-Diet.jpg",
+          "url": "https://master3.baraq.xyz/media/6306d76039793Niw/1080/hls/index.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ใช่เลย! รักเธอเต็มเอ๋อ (2000)",
       "image": "https://movie2uhd.com/wp-content/uploads/2022/08/Needing-You-2000.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ใช่เลย! รักเธอเต็มเอ๋อ (2000)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/08/Needing-You-2000.jpg",
+          "url": "https://master1.glacis.xyz/media/6305c4ea7b404WqW/1080/hls/index.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ซิ่งให้สุดหยุดที่เธอ (2021)",
@@ -315,6 +342,108 @@
           "name": "ซิ่งให้สุดหยุดที่เธอ (2021)",
           "image": "https://movie2uhd.com/wp-content/uploads/2022/08/Chi-Zha-Feng-Yun-2021.jpeg",
           "url": "https://master1.glacis.xyz/media/62faf15ed20875ew/720/hls/index.m3u8",
+          "info": "Thai"
+        }
+      ]
+    },
+    {
+      "name": "ตี๋เหรินเจี๋ย นักสืบจอมเจ้าเล่ห์ (2021)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/07/ปก-3.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "ตี๋เหรินเจี๋ย นักสืบจอมเจ้าเล่ห์ (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/07/ปก-3.png",
+          "url": "https://master1.glacis.xyz/media/62ddf7f837f0eCUS/1080/hls/index.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "ตี๋เหรินเจี๋ย นักสืบจอมเจ้าเล่ห์ (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/07/ปก-3.png",
+          "url": "https://master2.ataxbayle.xyz/media/62ddfc9e13f3dxEM/1080/hls/index.m3u8",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "ศึกสามพิภพ รบ-รัก-พิทักษ์เธอ (2006)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/07/ปก-23.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ศึกสามพิภพ รบ-รัก-พิทักษ์เธอ (2006)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/07/ปก-23.jpg",
+          "url": "https://master2.ataxbayle.xyz/media/62cf78e5f2bcbLdO/1080/hls/index.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "ศึกสามพิภพ รบ-รัก-พิทักษ์เธอ (2006)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/07/ปก-23.jpg",
+          "url": "https://master3.baraq.xyz/media/62cd1398bea7expW/1080/hls/index.m3u8",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "สามก๊ก ขุนศึกเลือดมังกร (2008)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/07/ปก-26.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "สามก๊ก ขุนศึกเลือดมังกร (2008)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/07/ปก-26.jpg",
+          "url": "https://master3.baraq.xyz/media/62cfb88928151Wpz/720/hls/index.m3u8",
+          "info": "Thai"
+        }
+      ]
+    },
+    {
+      "name": "มนตรา (2022)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/07/photo_๒๐๒๒-๐๗-๐๘_๐๙-๒๐-๒๐-683x1024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "มนตรา (2022)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/07/photo_๒๐๒๒-๐๗-๐๘_๐๙-๒๐-๒๐-683x1024.jpg",
+          "url": "https://master3.baraq.xyz/media/62c8e0fbae543ZUH/1080/hls/index.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "มนตรา (2022)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/07/photo_๒๐๒๒-๐๗-๐๘_๐๙-๒๐-๒๐-683x1024.jpg",
+          "url": "https://master1.glacis.xyz/media/62c8e0fb8935cJWD/1080/hls/index.m3u8",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "ดาบทะลุฟ้า ฟัดทะลุเวลา (2005)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/07/The-Myth-718x1024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ดาบทะลุฟ้า ฟัดทะลุเวลา (2005)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/07/The-Myth-718x1024.jpg",
+          "url": "https://master1.glacis.xyz/media/62c3d52eba434dhP/1080/hls/index.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "ดาบทะลุฟ้า ฟัดทะลุเวลา (2005)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/07/The-Myth-718x1024.jpg",
+          "url": "https://master3.baraq.xyz/media/62c3d827f28d56Ut/1080/hls/index.m3u8",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "กู๋หว่าไจ๋ 3 ใหญ่ครองเมือง (1996)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/06/Young-and-Dangerous-3-e1656146840388.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "กู๋หว่าไจ๋ 3 ใหญ่ครองเมือง (1996)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/06/Young-and-Dangerous-3-e1656146840388.jpg",
+          "url": "https://master3.baraq.xyz/media/62b2ee7f82c38rXB/720/hls/index.m3u8",
           "info": "Thai"
         }
       ]
