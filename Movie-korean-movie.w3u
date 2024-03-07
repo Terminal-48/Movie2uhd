@@ -760,6 +760,12 @@
           "image": "https://movie2uhd.com/wp-content/uploads/2021/06/Recalled-2021-715x1024.jpg",
           "url": "https://lb.anime-xxx.com/playlist/detail/32e8db0f963ad270b4dabfe2e73bc766/32e8db0f963ad270b4dabfe2e73bc766.m3u8",
           "info": "Thai"
+        },
+        {
+          "name": "ระลึกหลอน (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/06/Recalled-2021-715x1024.jpg",
+          "url": "https://master2.ataxbayle.xyz/media/64effa7646537hgW/1080/hls/index.m3u8",
+          "info": "Sub"
         }
       ]
     },
@@ -934,55 +940,130 @@
       "name": "คืนโหดแค้นคลั่ง 7 ปีมิมีเลือนหาย (2018)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/08/Night-of-7-Years-717x1024.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "คืนโหดแค้นคลั่ง 7 ปีมิมีเลือนหาย (2018)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/08/Night-of-7-Years-717x1024.jpg",
+          "url": "https://lb.movie24x.com/hls/5ecb1045b0081fdcc41507ce581723b4/5ecb1045b0081fdcc41507ce581723b4.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "คุณพี่ชายสุดที่รัก (2016)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/08/my-annoying-brother-e1630053670241.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "คุณพี่ชายสุดที่รัก (2016)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/08/my-annoying-brother-e1630053670241.jpg",
+          "url": "https://lb.movie24x.com/hls/37674ed8973addc3f12abf33d1995150/37674ed8973addc3f12abf33d1995150.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ศึกโจรสลัด ล่าสุดขอบโลก (2014)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/08/The-Pirates-e1628649392195.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ศึกโจรสลัด ล่าสุดขอบโลก (2014)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/08/The-Pirates-e1628649392195.jpg",
+          "url": "https://lb.movie24x.com/hls/dba4d6b115b3ebf0ad2ea0b174d0ffd5/dba4d6b115b3ebf0ad2ea0b174d0ffd5.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ก็อดซิลล่า รีเซอร์เจนซ์ (2016)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/08/Shin-Godzilla-2016.jpeg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ก็อดซิลล่า รีเซอร์เจนซ์ (2016)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/08/Shin-Godzilla-2016.jpeg",
+          "url": "https://lb.movie24x.com/hls/fc560ad56689da2c8dd13d3b7f52e108/fc560ad56689da2c8dd13d3b7f52e108.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ผีดิบคลั่ง บัลลังก์เดือด: อาชินแห่งเผ่าเหนือ (2021)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/07/Kingdom-Ashin-of-the-North-e1627027056167.jpeg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ผีดิบคลั่ง บัลลังก์เดือด: อาชินแห่งเผ่าเหนือ (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/07/Kingdom-Ashin-of-the-North-e1627027056167.jpeg",
+          "url": "https://lb.movie-hd.video/playlist/detail/bb7c64dd47adb0f75d68b5c2772566a6/bb7c64dd47adb0f75d68b5c2772566a6.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "ผีดิบคลั่ง บัลลังก์เดือด: อาชินแห่งเผ่าเหนือ (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/07/Kingdom-Ashin-of-the-North-e1627027056167.jpeg",
+          "url": "https://lb.movie24x.com/hls/0674bccfa4ca10685dc93c121cd8d560/0674bccfa4ca10685dc93c121cd8d560.m3u8",
+          "info": "Sub"
+        }
+      ]
     },
     {
       "name": "อำนาจ ราคะ ใครจะหยุดได้ (2008)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/07/A-FROZEN-FLOWER-e1625739339977.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "อำนาจ ราคะ ใครจะหยุดได้ (2008)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/07/A-FROZEN-FLOWER-e1625739339977.jpg",
+          "url": "https://lb.movie24x.com/hls/cf75647ba1671351f56acd9a08ae8841/cf75647ba1671351f56acd9a08ae8841.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "The 8th Night (2021)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/07/THE-8TH-NIGHT-e1625220708665.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "The 8th Night (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/07/THE-8TH-NIGHT-e1625220708665.jpg",
+          "url": "https://lb.movie24x.com/hls/9400192ac51fbeb5f8e529fb0ceab230/9400192ac51fbeb5f8e529fb0ceab230.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "The 8th Night (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/07/THE-8TH-NIGHT-e1625220708665.jpg",
+          "url": "https://lb.movie24x.com/hls/8a7038ca9471662199a0672356cc5c3b/8a7038ca9471662199a0672356cc5c3b.m3u8",
+          "info": "Sub"
+        }
+      ]
     },
     {
       "name": "ยัยตัวจุ้น วุ่นสมรภูมิป่วน (2005)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/06/Battle-Ground-625-e1623402869769.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ยัยตัวจุ้น วุ่นสมรภูมิป่วน (2005)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/06/Battle-Ground-625-e1623402869769.png",
+          "url": "https://lb.movie24x.com/hls/deee64b3b375c006c7dd76c77530ee53/deee64b3b375c006c7dd76c77530ee53.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "กอดคือสัญญา หัวใจฝากมาชั่วนิรันดร์ (2011)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/06/Always-e1623382067632.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "กอดคือสัญญา หัวใจฝากมาชั่วนิรันดร์ (2011)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/06/Always-e1623382067632.jpg",
+          "url": "https://lb.movie24x.com/hls/46a4f1bdb5bdb94b3d1b76603b9a4dd6/46a4f1bdb5bdb94b3d1b76603b9a4dd6.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "รักหวานอมเปรี้ยว (2021)",
@@ -1007,79 +1088,176 @@
       "name": "พนักงานดีเดือด (2015)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/05/Office-2015-พนักงานดีเดือด-e1620031764407.jpeg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "พนักงานดีเดือด (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/05/Office-2015-พนักงานดีเดือด-e1620031764407.jpeg",
+          "url": "https://lb.movie24x.com/hls/3ba7eb7fddadc9631030fc480f0ff6e4/3ba7eb7fddadc9631030fc480f0ff6e4.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ยึด (2016)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/04/Operation-Chromite-2016.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ยึด (2016)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/04/Operation-Chromite-2016.jpg",
+          "url": "https://lb.movie24x.com/hls/4f8aa91cf8ebd582cf744518e88a5e72/4f8aa91cf8ebd582cf744518e88a5e72.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ซอบก มนุษย์อมตะ SEOBOK (2021)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/04/SEObomovie-korea.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ซอบก มนุษย์อมตะ SEOBOK (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/04/SEObomovie-korea.jpg",
+          "url": "https://lb.movie24x.com/hls/c290a21964a3e94f6eb30c1d354f589d/c290a21964a3e94f6eb30c1d354f589d.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "แข่งกันล่า…ท้ายก สน. (2011)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/04/Officer-Of-The-Year-2011.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "แข่งกันล่า…ท้ายก สน. (2011)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/04/Officer-Of-The-Year-2011.png",
+          "url": "https://lb.movie24x.com/hls/2c71eebc2e7f4aff833a11fa5681ce40/2c71eebc2e7f4aff833a11fa5681ce40.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "Ode to My Father กี่หมื่นวัน…ไม่ลืมคำสัญญาพ่อ (Ode to My Father กี่หมื่นวัน…ไม่ลืมคำสัญญาพ่อ)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/04/Ode-to-My-Father-min.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "Ode to My Father กี่หมื่นวัน…ไม่ลืมคำสัญญาพ่อ (Ode to My Father กี่หมื่นวัน…ไม่ลืมคำสัญญาพ่อ)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/04/Ode-to-My-Father-min.png",
+          "url": "https://lb.movie24x.com/hls/7e4e43b09bfb8c7678e725d0a64cd7f0/7e4e43b09bfb8c7678e725d0a64cd7f0.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "R-Point สมรภูมิผี (2004)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/03/Rpoint.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "R-Point สมรภูมิผี (2004)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/03/Rpoint.png",
+          "url": "https://lb.movie24x.com/hls/f9863d9840b3766f2aa43b51a9300ddd/f9863d9840b3766f2aa43b51a9300ddd.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ล้วงเล่ห์ลวงรัก (2016)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/03/handmaiden.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ล้วงเล่ห์ลวงรัก (2016)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/03/handmaiden.jpg",
+          "url": "https://lb.movie24x.com/hls/f2ac225244aa24203fd99f8b421361c0/f2ac225244aa24203fd99f8b421361c0.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "อาถรรพ์ศัลยกรรม (2006)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Cinderella-2006.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "อาถรรพ์ศัลยกรรม (2006)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Cinderella-2006.png",
+          "url": "https://lb.movie24x.com/hls/2c9a7d29520d6073cf693fb60b1bd967/2c9a7d29520d6073cf693fb60b1bd967.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ความรักที่เหลือ…ขอให้เราได้ไหม? (2017)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/09/The-Love-Thats-Left.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ความรักที่เหลือ…ขอให้เราได้ไหม? (2017)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/09/The-Love-Thats-Left.jpg",
+          "url": "https://lb.movie24x.com/hls/a13b4bff4a575f26d1412537eca55bbe/a13b4bff4a575f26d1412537eca55bbe.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ฆาตกรรม ซากวิญญาณ (2007)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Epitaph-2007.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ฆาตกรรม ซากวิญญาณ (2007)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Epitaph-2007.jpg",
+          "url": "https://lb.movie24x.com/hls/ff3858aa82e681eb5706621e7d45392d/ff3858aa82e681eb5706621e7d45392d.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ปริศนาโรงเรียนมรณะ ภาค 1 (2008)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Death-Bell.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ปริศนาโรงเรียนมรณะ ภาค 1 (2008)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Death-Bell.png",
+          "url": "https://lb.movie24x.com/hls/19396fa1fb9f713889f8de4fef3a828b/19396fa1fb9f713889f8de4fef3a828b.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ชนชั้นขยะปฏิวัติจักรวาล (2021)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Space-Sweepers.jpeg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ชนชั้นขยะปฏิวัติจักรวาล (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Space-Sweepers.jpeg",
+          "url": "https://lb.movie-hd.video/playlist/detail/89b7ee07123b6fef1bc562d1a47ad4de/89b7ee07123b6fef1bc562d1a47ad4de.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "ชนชั้นขยะปฏิวัติจักรวาล (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Space-Sweepers.jpeg",
+          "url": "https://lb.movie-hd.video/playlist/detail/ff4973e6f0c996d9e5f91b08ced9f36c/ff4973e6f0c996d9e5f91b08ced9f36c.m3u8",
+          "info": "Sub"
+        }
+      ]
     },
     {
       "name": "ยอดนักข่าวกระชากหน้ากากปีศาจ (2015)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/fea10f6de9b024ac878170818fb31690.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ยอดนักข่าวกระชากหน้ากากปีศาจ (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/fea10f6de9b024ac878170818fb31690.jpg",
+          "url": "https://lb.movie24x.com/hls/a9045dda47ade0c34e3d4dd264ab57c2/a9045dda47ade0c34e3d4dd264ab57c2.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "คุณยายผมดีที่สุดในโลก (2002)",
@@ -1104,25 +1282,59 @@
       "name": "Whistle Blower (2014)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Whistle-Blower-2014.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "Whistle Blower (2014)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/02/Whistle-Blower-2014.jpg",
+          "url": "https://lb.movie24x.com/hls/8cc0dd0121ca834f157ec762a553b39d/8cc0dd0121ca834f157ec762a553b39d.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "The Call สายตรงต่ออดีต (The Call สายตรงต่ออดีต)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/11/the-call-netflix.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "The Call สายตรงต่ออดีต (The Call สายตรงต่ออดีต)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/11/the-call-netflix.png",
+          "url": "https://lb.movie24x.com/hls/8d29f3aed498d07d73b773f08de3d7ec/8d29f3aed498d07d73b773f08de3d7ec.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "The Call สายตรงต่ออดีต (The Call สายตรงต่ออดีต)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/11/the-call-netflix.png",
+          "url": "https://lb.movie24x.com/hls/f97c693f48b79b72b8121bfd98ebc1da/f97c693f48b79b72b8121bfd98ebc1da.m3u8",
+          "info": "Sub"
+        }
+      ]
     },
     {
       "name": "เอฟเอ็มสยอง จองคลื่นผวา (2010)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/01/Midnight-FM.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "เอฟเอ็มสยอง จองคลื่นผวา (2010)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/01/Midnight-FM.jpg",
+          "url": "https://lb.movie24x.com/hls/3cf180a1cb947f36fe8780f03a8fa9c2/3cf180a1cb947f36fe8780f03a8fa9c2.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "แผนล่าคนลวง (2014)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/01/A-Hard-Day.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "แผนล่าคนลวง (2014)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/01/A-Hard-Day.png",
+          "url": "https://lb.movie24x.com/hls/689ba5a558a449efc0a6ff3804a6f888/689ba5a558a449efc0a6ff3804a6f888.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ติวนักรักซะเลย 2 (2007)",
@@ -1141,49 +1353,111 @@
       "name": "Default (2018)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/01/Default-2018.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "Default (2018)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/01/Default-2018.jpg",
+          "url": "https://lb.movie24x.com/hls/27d7665403dbe08d80d6cbba5dcc9ab0/27d7665403dbe08d80d6cbba5dcc9ab0.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "นักบวชผี ปีศาจแวมไพร์ (2009)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/01/Thirst-2009.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "นักบวชผี ปีศาจแวมไพร์ (2009)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/01/Thirst-2009.jpg",
+          "url": "https://lb.movie24x.com/hls/e7e45c3aad89de3d11b64e4e70752686/e7e45c3aad89de3d11b64e4e70752686.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "แฮอุนแด มหาวินาศมนุษยชาติ (Haeundae)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/01/Tidal-Wave-Haeundae.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "แฮอุนแด มหาวินาศมนุษยชาติ (Haeundae)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/01/Tidal-Wave-Haeundae.jpg",
+          "url": "https://lb.movie24x.com/hls/0e5d682ac1d54a64da6b5b9b329d92f8/0e5d682ac1d54a64da6b5b9b329d92f8.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ฆาตกรรม ความตาย และสายฝน (2003)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/12/memories-of-murder.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ฆาตกรรม ความตาย และสายฝน (2003)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/12/memories-of-murder.png",
+          "url": "https://lb.movie24x.com/hls/deca37117f5ab479fd9c5ab871cc9fad/deca37117f5ab479fd9c5ab871cc9fad.m3u8",
+          "info": "Sub"
+        }
+      ]
     },
     {
       "name": "คนเป็นฝ่านรกซอมบี้ (2020)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/08/alive-2020.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "คนเป็นฝ่านรกซอมบี้ (2020)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/08/alive-2020.jpg",
+          "url": "https://lb.movie-hd.video/playlist/detail/304248523d1760fb30e7c8d8ab57c4e2/304248523d1760fb30e7c8d8ab57c4e2.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "คนเป็นฝ่านรกซอมบี้ (2020)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/08/alive-2020.jpg",
+          "url": "https://lb.movie-hd.video/playlist/detail/e1cc45f9b17763000649fa41ac9894d9/e1cc45f9b17763000649fa41ac9894d9.m3u8",
+          "info": "Sub"
+        }
+      ]
     },
     {
       "name": "โคลด์ อายส์ (2013)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/11/Cold-eyes-2013.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "โคลด์ อายส์ (2013)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/11/Cold-eyes-2013.jpg",
+          "url": "https://lb.movie24x.com/hls/e504a6b698b6d8d4ca8e598f4dc6187f/e504a6b698b6d8d4ca8e598f4dc6187f.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "แรงปรารถนา อย่าห้าม (2010)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/d5b72398c3e1d28504ce0d38baf29578.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "แรงปรารถนา อย่าห้าม (2010)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/d5b72398c3e1d28504ce0d38baf29578.jpg",
+          "url": "https://lb.movie24x.com/hls/5efe342367d17fe7e5235bb29a07380f/5efe342367d17fe7e5235bb29a07380f.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "กุญแจเปลี่ยนชีวิต (2016)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/11/Luck-Key.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "กุญแจเปลี่ยนชีวิต (2016)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/11/Luck-Key.jpg",
+          "url": "https://lb.movie24x.com/hls/51750fa132a994ce447d387239187347/51750fa132a994ce447d387239187347.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "The Divine Move 2 The Wrathful (2019)",
@@ -1195,6 +1469,12 @@
           "image": "https://movie2uhd.com/wp-content/uploads/2020/07/The-Divine-Move-2-The-Wrathful-719x1024.jpg",
           "url": "https://master3.agupoid-ss.xyz/media/64eef2511e565D3W/720/hls/index.m3u8",
           "info": "Thai"
+        },
+        {
+          "name": "The Divine Move 2 The Wrathful (2019)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/07/The-Divine-Move-2-The-Wrathful-719x1024.jpg",
+          "url": "https://lb.movie24x.com/hls/a0385c8606f04f764ce6fd1e13dd9208/a0385c8606f04f764ce6fd1e13dd9208.m3u8",
+          "info": "Sub"
         }
       ]
     },
@@ -1202,13 +1482,27 @@
       "name": "ร้านกาแฟ…สื่อรักด้วยใจ (2016)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/10/Bittersweet-Brew.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ร้านกาแฟ…สื่อรักด้วยใจ (2016)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/10/Bittersweet-Brew.jpg",
+          "url": "https://lb.movie24x.com/hls/c04d04bfdc31615f1110f7d1cc2815b9/c04d04bfdc31615f1110f7d1cc2815b9.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "เครื่องซักผ้าเปลี่ยนฝัน (2017)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/09/Dream-Change-Laundromat.png",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "เครื่องซักผ้าเปลี่ยนฝัน (2017)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/09/Dream-Change-Laundromat.png",
+          "url": "https://lb.movie24x.com/hls/691ab9860eefc7ed93b3c697184778d1/691ab9860eefc7ed93b3c697184778d1.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "Lingering (Hotel Lake) โรงแรมผีจอง(เวร) (2020)",
@@ -1231,6 +1525,12 @@
         {
           "name": "ฝ่านรก ซอมบี้คลั่ง 2 (2020)",
           "image": "https://movie2uhd.com/wp-content/uploads/2020/07/Train-to-Busan-2.png",
+          "url": "https://lb.movie-hd.video/playlist/detail/e188af8d453444f65ac5bc765f797359/e188af8d453444f65ac5bc765f797359.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "ฝ่านรก ซอมบี้คลั่ง 2 (2020)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/07/Train-to-Busan-2.png",
           "url": "https://master2.ataxbayle.xyz/media/64f05cbbabd1fqZC/1080/hls/index.m3u8",
           "info": "Sub"
         }
@@ -1240,13 +1540,27 @@
       "name": "The Shameless (2015)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/08/The-Shameless.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "The Shameless (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/08/The-Shameless.jpg",
+          "url": "https://lb.movie24x.com/hls/b592110eaae8b02c0038020d15f3174f/b592110eaae8b02c0038020d15f3174f.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "เรื่องลับของสาวชุดขาว (2018)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/08/Mysterious-Nurse-e1599640301259.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "เรื่องลับของสาวชุดขาว (2018)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/08/Mysterious-Nurse-e1599640301259.jpg",
+          "url": "https://lb.movie24x.com/hls/46abea67de61d56d8c9d2b9d752aa270/46abea67de61d56d8c9d2b9d752aa270.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ลิตเติ้ลฟอเรสต์ (2018)",
@@ -1265,19 +1579,40 @@
       "name": "การเมืองเฉือนคม (2015)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/08/Inside-Men-2015.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "การเมืองเฉือนคม (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/08/Inside-Men-2015.jpg",
+          "url": "https://lb.movie24x.com/hls/7b8fa221272d641a41eeaa12478891f2/7b8fa221272d641a41eeaa12478891f2.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "สงครามรัก สงครามพนัน เปิดไพ่ตาย (2014)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/08/Tazza-The-Hidden-Card-e1599641331286.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "สงครามรัก สงครามพนัน เปิดไพ่ตาย (2014)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/08/Tazza-The-Hidden-Card-e1599641331286.jpg",
+          "url": "https://lb.movie24x.com/hls/e8d4eb8f838c2a161423d8301c10bed7/e8d4eb8f838c2a161423d8301c10bed7.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "The Odd Family Zombie On Sale ครอบครัวสุดเพี้ยน เกรียนสู้ซอมบี้ (The Odd Family Zombie On Sale ครอบครัวสุดเพี้ยน เกรียนสู้ซอมบี้)",
       "image": "https://movie2uhd.com/wp-content/uploads/2020/07/The-Odd-Family-Zombie-On-Sale.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "The Odd Family Zombie On Sale ครอบครัวสุดเพี้ยน เกรียนสู้ซอมบี้ (The Odd Family Zombie On Sale ครอบครัวสุดเพี้ยน เกรียนสู้ซอมบี้)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2020/07/The-Odd-Family-Zombie-On-Sale.jpg",
+          "url": "https://lb.movie24x.com/hls/41a5a04427c68e70500fe024d563c69f/41a5a04427c68e70500fe024d563c69f.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "A Muse (2012) เสน่ห์หาในวังวน (เด็กสาวกับชายแก่)",
@@ -1302,37 +1637,79 @@
       "name": "The Piper คนเป่าขลุ่ย (The Piper คนเป่าขลุ่ย)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/d2a951bf99ccffc74593906c40db39d0.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "The Piper คนเป่าขลุ่ย (The Piper คนเป่าขลุ่ย)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/d2a951bf99ccffc74593906c40db39d0.jpg",
+          "url": "https://lb.movie24x.com/hls/4e2614324bb4852831703ef49a0343e3/4e2614324bb4852831703ef49a0343e3.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "Love Clinic คลินิครัก (Love Clinic คลินิครัก)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/f98e281b6f4d8487c827fd07d1ddab42.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "Love Clinic คลินิครัก (Love Clinic คลินิครัก)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/f98e281b6f4d8487c827fd07d1ddab42.jpg",
+          "url": "https://lb.movie24x.com/hls/ed0d1465c6872df933c66b75c90ff904/ed0d1465c6872df933c66b75c90ff904.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "กับดัก ซ่อนตาย (2015)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/d69f6dbda0e7f4047e57cb9ef3709e3b.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "กับดัก ซ่อนตาย (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/d69f6dbda0e7f4047e57cb9ef3709e3b.jpg",
+          "url": "https://lb.movie24x.com/hls/5b047beabe15f8ef5ddd92bcd3058223/5b047beabe15f8ef5ddd92bcd3058223.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ยอดนักสืบ พลิกโชซอน (2015)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/81b1aaf4bf3af8a9a65f746991b60d11.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ยอดนักสืบ พลิกโชซอน (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/81b1aaf4bf3af8a9a65f746991b60d11.jpg",
+          "url": "https://lb.movie24x.com/hls/7c9aa7e9c57b37d5fd61f862891656cd/7c9aa7e9c57b37d5fd61f862891656cd.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "Enemies In Law (2015)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/a9d389e7d501a22d45e7fc1cce0590ae.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "Enemies In Law (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/a9d389e7d501a22d45e7fc1cce0590ae.jpg",
+          "url": "https://lb.movie24x.com/hls/8ed75490f6abd77687bb23f029764a45/8ed75490f6abd77687bb23f029764a45.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "แด่มิตรภาพ สุดขอบฟ้า (2015)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/a725036e7ca9778174c7e61648a3f0fb.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "แด่มิตรภาพ สุดขอบฟ้า (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/a725036e7ca9778174c7e61648a3f0fb.jpg",
+          "url": "https://lb.movie24x.com/hls/decfa77154b3abf98c8ea305014cd366/decfa77154b3abf98c8ea305014cd366.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ยัยตัวร้าย สไนเปอร์ (2015)",
@@ -1351,13 +1728,33 @@
       "name": "นักมายากลเจ้าเสน่ห์แห่งโชซอน (Chosun Masoolsa)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/014e3e949b44e2d1f94010297f135b32.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "นักมายากลเจ้าเสน่ห์แห่งโชซอน (Chosun Masoolsa)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/014e3e949b44e2d1f94010297f135b32.jpg",
+          "url": "https://lb.movie24x.com/hls/84da2a46b6b063c6f5dc4f2aa017237b/84da2a46b6b063c6f5dc4f2aa017237b.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "ศึกจอมดาบชิงบัลลังก์ (Hyeomnyeo Kar-ui gi-eok)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/af2a6375851a7f339787dfffa604b007.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "ศึกจอมดาบชิงบัลลังก์ (Hyeomnyeo Kar-ui gi-eok)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/af2a6375851a7f339787dfffa604b007.jpg",
+          "url": "https://lb.movie24x.com/hls/e213c41444ccd9d9d649b207b454bed5/e213c41444ccd9d9d649b207b454bed5.m3u8",
+          "info": "Thai"
+        },
+        {
+          "name": "ศึกจอมดาบชิงบัลลังก์ (Hyeomnyeo Kar-ui gi-eok)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/af2a6375851a7f339787dfffa604b007.jpg",
+          "url": "https://lb.movie24x.com/hls/2b81ca82a0387f64c10fe14d0c28758d/2b81ca82a0387f64c10fe14d0c28758d.m3u8",
+          "info": "Sub"
+        }
+      ]
     },
     {
       "name": "ยีซุนชิน ขุนพลคลื่นคำราม (2014)",
@@ -1376,7 +1773,14 @@
       "name": "วัยรักเลือดเดือด (2014)",
       "image": "https://movie2uhd.com/wp-content/uploads/2019/08/59583232deb20a89440487488f1bc531.jpg",
       "info": "",
-      "stations": []
+      "stations": [
+        {
+          "name": "วัยรักเลือดเดือด (2014)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/59583232deb20a89440487488f1bc531.jpg",
+          "url": "https://lb.movie24x.com/hls/20e1daea5c88cbefe698156dd190f7c9/20e1daea5c88cbefe698156dd190f7c9.m3u8",
+          "info": "Thai"
+        }
+      ]
     },
     {
       "name": "รักแรกในความทรงจำ (Geon-chook-hak-gae-ron)",
@@ -1394,6 +1798,45 @@
           "image": "https://movie2uhd.com/wp-content/uploads/2019/08/4d4a39ea7ef3d9b196c32c8c87ff662c.jpg",
           "url": "https://lb.anime-xxx.com/playlist/detail/d58b1747eeb975ce9c53739eb2ad33bf/d58b1747eeb975ce9c53739eb2ad33bf.m3u8",
           "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "Love 911 วุ่นรัก นักผจญเพลิง (Love 911 วุ่นรัก นักผจญเพลิง)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2019/08/83c2efadd61080e08a60829301d89a5d.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Love 911 วุ่นรัก นักผจญเพลิง (Love 911 วุ่นรัก นักผจญเพลิง)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/83c2efadd61080e08a60829301d89a5d.jpg",
+          "url": "https://lb.movie24x.com/hls/ffa94654c716011c7c14a53788f498ad/ffa94654c716011c7c14a53788f498ad.m3u8",
+          "info": "Thai"
+        }
+      ]
+    },
+    {
+      "name": "Death Bell 2: Bloody Camp ปริศนาลับ โรงเรียนมรณะ 2 (Death Bell 2: Bloody Camp ปริศนาลับ โรงเรียนมรณะ 2)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2019/08/b5e229fb88e7d9a3ef02dd8b3320fb01.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Death Bell 2: Bloody Camp ปริศนาลับ โรงเรียนมรณะ 2 (Death Bell 2: Bloody Camp ปริศนาลับ โรงเรียนมรณะ 2)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/b5e229fb88e7d9a3ef02dd8b3320fb01.jpg",
+          "url": "https://lb.movie24x.com/hls/44ff142f72f6f87a950e8c3734c3d056/44ff142f72f6f87a950e8c3734c3d056.m3u8",
+          "info": "Thai"
+        }
+      ]
+    },
+    {
+      "name": "เกณฑ์เจ้าพ่อไปเป็นทหาร (2003)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2019/08/31f6ddf9e157895e159588789c1ae608.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เกณฑ์เจ้าพ่อไปเป็นทหาร (2003)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/31f6ddf9e157895e159588789c1ae608.jpg",
+          "url": "https://lb.movie24x.com/hls/9febb31e3a76c0781637b911d1c4608c/9febb31e3a76c0781637b911d1c4608c.m3u8",
+          "info": "Thai"
         }
       ]
     }
