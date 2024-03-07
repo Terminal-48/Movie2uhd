@@ -6,15 +6,21 @@
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie2uhd/main/Movie-korean-movie.w3u",
   "groups": [
     {
-      "name": "สามพยัคฆ์สาวแห่งโชซอน (2014)",
-      "image": "https://movie2uhd.com/wp-content/uploads/2019/08/e4ed44b81c8b690fa46f70fc04a33172-e1636604326221.jpg",
+      "name": "เดอะบ็อกซ์ (2021)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2021/11/The-Box-e1635732765376.jpg",
       "info": "",
       "stations": [
         {
-          "name": "สามพยัคฆ์สาวแห่งโชซอน (2014)",
-          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/e4ed44b81c8b690fa46f70fc04a33172-e1636604326221.jpg",
-          "url": "https://lb.anime-xxx.com/playlist/detail/96bc9dd1a53a69b4de8a65da076e931c/96bc9dd1a53a69b4de8a65da076e931c.m3u8",
+          "name": "เดอะบ็อกซ์ (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/11/The-Box-e1635732765376.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/detail/211cb4e3fdd655629e8f124a8d05e55a/211cb4e3fdd655629e8f124a8d05e55a.m3u8",
           "info": "Thai"
+        },
+        {
+          "name": "เดอะบ็อกซ์ (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/11/The-Box-e1635732765376.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/detail/5772fd3c80ac878c992e04eb15a8a88e/5772fd3c80ac878c992e04eb15a8a88e.m3u8",
+          "info": "Sub"
         }
       ]
     }
