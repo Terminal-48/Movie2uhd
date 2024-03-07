@@ -6,6 +6,102 @@
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie2uhd/main/Movie-korean-movie.w3u",
   "groups": [
     {
+      "name": "ระลึกหลอน (2021)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2021/06/Recalled-2021-715x1024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "ระลึกหลอน (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/06/Recalled-2021-715x1024.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/bd8ede15adbe8183479d641a90fe5a43/playlist",
+          "info": "Thai"
+        },
+        {
+          "name": "ระลึกหลอน (2021)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/06/Recalled-2021-715x1024.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/906f3183ee688c679483650cd1eea5c8/playlist",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "รักจูงรัก (2022)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Love-and-Leashes-e1644574890428.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "รักจูงรัก (2022)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Love-and-Leashes-e1644574890428.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/5aa8079a622ea01427ac5a77d0ca48be/playlist",
+          "info": "Thai"
+        },
+        {
+          "name": "รักจูงรัก (2022)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Love-and-Leashes-e1644574890428.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/cdf09c3856bc4cab53d591fa81467f12/playlist",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "นางวัง บัลลังก์เลือด (2012)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/02/The-Concubine-717x1024.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "นางวัง บัลลังก์เลือด (2012)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/02/The-Concubine-717x1024.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/91355ac6397402ecb8e8e5f72caddab2/playlist",
+          "info": "Thai"
+        }
+      ]
+    },
+    {
+      "name": "คาฮี ปรารถนาโค่นบัลลังก์ (2015)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Empire-of-Lust--683x1024.jpeg",
+      "info": "",
+      "stations": [
+        {
+          "name": "คาฮี ปรารถนาโค่นบัลลังก์ (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Empire-of-Lust--683x1024.jpeg",
+          "url": "https://lb.anime-xxx.com/playlist/38cdf7fc797abcf0515a29b267e40466/playlist",
+          "info": "Thai"
+        },
+        {
+          "name": "คาฮี ปรารถนาโค่นบัลลังก์ (2015)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Empire-of-Lust--683x1024.jpeg",
+          "url": "https://lb.anime-xxx.com/playlist/bea6ecd24304c7038b84fad8d98b814d/playlist",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "โหด บ้า ล่าดีเดือด (2008)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/01/The-Good-the-Bad-the-Weird-e1641110188598.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "โหด บ้า ล่าดีเดือด (2008)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/01/The-Good-the-Bad-the-Weird-e1641110188598.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/45cf788a49b54c0149711177e7e3d28b/playlist",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "สามพยัคฆ์สาวแห่งโชซอน (2014)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2019/08/e4ed44b81c8b690fa46f70fc04a33172-e1636604326221.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "สามพยัคฆ์สาวแห่งโชซอน (2014)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2019/08/e4ed44b81c8b690fa46f70fc04a33172-e1636604326221.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/96bc9dd1a53a69b4de8a65da076e931c/playlist",
+          "info": "Thai"
+        }
+      ]
+    },
+    {
       "name": "เดอะบ็อกซ์ (2021)",
       "image": "https://movie2uhd.com/wp-content/uploads/2021/11/The-Box-e1635732765376.jpg",
       "info": "",
@@ -13,14 +109,85 @@
         {
           "name": "เดอะบ็อกซ์ (2021)",
           "image": "https://movie2uhd.com/wp-content/uploads/2021/11/The-Box-e1635732765376.jpg",
-          "url": "https://lb.anime-xxx.com/playlist/detail/211cb4e3fdd655629e8f124a8d05e55a/211cb4e3fdd655629e8f124a8d05e55a.m3u8",
+          "url": "https://lb.anime-xxx.com/playlist/211cb4e3fdd655629e8f124a8d05e55a/playlist",
           "info": "Thai"
         },
         {
           "name": "เดอะบ็อกซ์ (2021)",
           "image": "https://movie2uhd.com/wp-content/uploads/2021/11/The-Box-e1635732765376.jpg",
-          "url": "https://lb.anime-xxx.com/playlist/detail/5772fd3c80ac878c992e04eb15a8a88e/5772fd3c80ac878c992e04eb15a8a88e.m3u8",
+          "url": "https://lb.anime-xxx.com/playlist/5772fd3c80ac878c992e04eb15a8a88e/playlist",
           "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "Bank Attack (2007)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2021/10/Bank-Attack-Korea-Movie-e1634885096248.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "Bank Attack (2007)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/10/Bank-Attack-Korea-Movie-e1634885096248.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/7e1ef4d7eb2050c5d1b1cfb3da7b5ec4/playlist",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "รวมกันเราฉก (2020)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2021/04/Collectors-2020-movie-china-e1634539195308.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "รวมกันเราฉก (2020)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/04/Collectors-2020-movie-china-e1634539195308.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/d7cde100ac0ace0d3cf08bba906be0be/playlist",
+          "info": "Thai"
+        },
+        {
+          "name": "รวมกันเราฉก (2020)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/04/Collectors-2020-movie-china-e1634539195308.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/6829f4d0c4f1a81cee9aa8f18b52a63d/playlist",
+          "info": "Sub"
+        }
+      ]
+    },
+    {
+      "name": "หัวใจเธอทวงแค้นสะกดโลก (2009)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2021/09/Mother-2009-e1632199900484.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "หัวใจเธอทวงแค้นสะกดโลก (2009)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/09/Mother-2009-e1632199900484.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/b86ffe610898ded628ef9ba86abaf4cf/playlist",
+          "info": "Thai"
+        }
+      ]
+    },
+    {
+      "name": "พยานอำมหิต (2018)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2021/09/the-witness.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "พยานอำมหิต (2018)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/09/the-witness.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/6af288fd820f36903a77412c54eca68a/playlist",
+          "info": "Thai"
+        }
+      ]
+    },
+    {
+      "name": "เบอร์ลิน รหัสลับระอุเดือด (2013)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2021/09/The-Berlin-File-e1631431140753.jpg",
+      "info": "",
+      "stations": [
+        {
+          "name": "เบอร์ลิน รหัสลับระอุเดือด (2013)",
+          "image": "https://movie2uhd.com/wp-content/uploads/2021/09/The-Berlin-File-e1631431140753.jpg",
+          "url": "https://lb.anime-xxx.com/playlist/8505e20c9bff923a0d3b999acad5c8c5/playlist",
+          "info": "Thai"
         }
       ]
     }
