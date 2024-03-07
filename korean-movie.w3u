@@ -3,7 +3,7 @@
   "author": "",
   "info": "",
   "image": "https://movie2uhd.com/wp-content/uploads/2022/09/Movie2uhd-logo.webp",
-  "url": "https://raw.githubusercontent.com/Terminal-48/Movie2uhd/main/Movie-korean-movie.w3u",
+  "url": "https://raw.githubusercontent.com/Terminal-48/Movie2uhd/main/korean-movie.w3u",
   "groups": [
     {
       "name": "ฮีโร่ สู้กู้เอกราช (2022)",
@@ -751,6 +751,12 @@
       ]
     },
     {
+      "name": "นัดบอดวุ่น ลุ้นรักท่านประธาน (2022)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+      "info": "",
+      "stations": []
+    },
+    {
       "name": "[Series] นัดบอดวุ่น ลุ้นรักท่านประธาน (2022)",
       "info": "",
       "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
@@ -881,6 +887,12 @@
       ]
     },
     {
+      "name": "ยี่สิบห้า ยี่สิบเอ็ด (2022)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Twenty-Five-Twenty-One-715x1024.jpg",
+      "info": "",
+      "stations": []
+    },
+    {
       "name": "[Series] ยี่สิบห้า ยี่สิบเอ็ด (2022)",
       "info": "",
       "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Twenty-Five-Twenty-One-715x1024.jpg",
@@ -982,6 +994,12 @@
           "url": "https://ok.ru/videoembed/3773717285435?v=1"
         }
       ]
+    },
+    {
+      "name": "พยากรณ์วันนี้ มีรักบางแห่ง (2022)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Forecasting-Love-and-Weather-e1645323600110.jpg",
+      "info": "",
+      "stations": []
     },
     {
       "name": "[Series] พยากรณ์วันนี้ มีรักบางแห่ง (2022)",
@@ -1106,6 +1124,12 @@
       ]
     },
     {
+      "name": "มัธยมซอมบี้ (2022)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/02/All-of-Us-Are-Dead-e1643797463530.jpg",
+      "info": "",
+      "stations": []
+    },
+    {
       "name": "[Series] มัธยมซอมบี้ (2022)",
       "info": "",
       "image": "https://movie2uhd.com/wp-content/uploads/2022/02/All-of-Us-Are-Dead-e1643797463530.jpg",
@@ -1196,6 +1220,12 @@
           "info": "Sub"
         }
       ]
+    },
+    {
+      "name": "ทะเลสงัด (2021)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2021/12/The-Silent-Sea-691x1024.jpg",
+      "info": "",
+      "stations": []
     },
     {
       "name": "[Series] ทะเลสงัด (2021)",
@@ -1296,6 +1326,12 @@
           "info": "Sub"
         }
       ]
+    },
+    {
+      "name": "My Name (2021)",
+      "image": "https://movie2uhd.com/wp-content/uploads/2021/10/My-Name-2021-e1634349652901.jpg",
+      "info": "",
+      "stations": []
     },
     {
       "name": "[Series] My Name (2021)",
