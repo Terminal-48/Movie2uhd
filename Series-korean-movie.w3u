@@ -6,6 +6,85 @@
   "url": "https://raw.githubusercontent.com/Terminal-48/Movie2uhd/main/Series-korean-movie.w3u",
   "groups": [
     {
+      "name": "นัดบอดวุ่น ลุ้นรักท่านประธาน (2022)",
+      "info": "",
+      "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769516034619?v=1"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769516886587?v=1"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769518524987?v=1"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769517673019?v=1"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769518787131?v=1"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769519049275?v=1"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769519311419?v=1"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769522129467?v=1"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769672665659?v=1"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769522457147?v=1"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://ok.ru/videoembed/3769522784827?v=1"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "Sub",
+          "image": "https://movie2uhd.com/wp-content/uploads/2022/05/Business-Proposal-e1651646072895-741x1024.jpg",
+          "url": "https://master4.maunuds.xyz/media/624d085b32f01v2x/1080/hls/index.m3u8"
+        }
+      ]
+    },
+    {
       "name": "ยี่สิบห้า ยี่สิบเอ็ด (2022)",
       "info": "",
       "image": "https://movie2uhd.com/wp-content/uploads/2022/02/Twenty-Five-Twenty-One-715x1024.jpg",
